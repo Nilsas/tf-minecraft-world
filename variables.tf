@@ -1,0 +1,3 @@
+variable "rconpasswd" {
+  type = string
+}
