@@ -56,7 +56,7 @@ module "wall_4" {
   position = {
     x = var.position.x
     y = var.position.y
-    z = var.position.z + var.dimensions.height
+    z = var.position.z + var.dimensions.width
   }
 
   dimensions = {
